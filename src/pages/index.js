@@ -8,7 +8,7 @@ export default function Home({ data }) {
       <section className="grid grid-cols-2">
         <div className="flex justify-center items-center">
           <div>
-            <h2 className="text-3xl font-bold md:text-6xl">Design </h2>
+            <h2 className="text-3xl font-bold md:text-6xl">Design by Me </h2>
             <h3 className="md:text-3xl font-semibold mb-5">Develop & Deploy</h3>
             <p>UX designer & web developer based in Madrague</p>
             <Link
